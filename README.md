@@ -2,6 +2,9 @@
 
 Create a lock screen image for testing iOS devices. Useful for seeing at a glance ownership and device properties. Uses https://github.com/imkira/mobiledevice to get device properties.
 
+![Example](IMG_2694_iphone6_spacegrey_portrait.png)
+![Example](IMG_2696_iphone6_spacegrey_portrait.png)
+
 ### Setup
 
 ```
@@ -33,3 +36,8 @@ You can set the device properties to whatever you want. Example of the data gath
   BluetoothAddress: '4f:32:ba:59:13:5d'
 }
 ```
+
+#### Links
+
+- http://support.hockeyapp.net/kb/client-integration-ios-mac-os-x/ios-device-types
+- http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
