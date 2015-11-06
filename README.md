@@ -2,7 +2,7 @@
 
 Create a lock screen image for testing iOS devices. Useful for seeing at a glance ownership and device properties. Uses https://github.com/imkira/mobiledevice to get device properties.
 
-![Example](img/example.png)
+![Example](img/example.jpg)
 
 ### Setup
 
